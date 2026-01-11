@@ -27,9 +27,6 @@ With the rise of misinformation, identifying fake news has become a crucial task
 - joblib
 - Jupyter Notebook
 
-## 📸 Screenshots
-
-*(Optional: Add screenshots of your Streamlit app interface here)*
 
 ## 🛠️ How to Run Locally
 
