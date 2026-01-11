@@ -25,8 +25,7 @@ With the rise of misinformation, identifying fake news has become a crucial task
 - NLP (TF-IDF, tokenization)
 - Streamlit
 - joblib
-- Jupyter Notebook
-
+- Jupyter Noteboo
 
 ## 🛠️ How to Run Locally
 
